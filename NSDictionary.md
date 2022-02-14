@@ -1,0 +1,1 @@
+### NSDictionary 用字面量生成
